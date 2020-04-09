@@ -16,7 +16,8 @@ def grade(grade)
 @roster[grade]
 end 
 
-def sort(add_student)
-  add_student.sort!
-end 
+def sort
+    @roster.each do |the_key, the_value|
+      the_value.sort!
+    end
 end
