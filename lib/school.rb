@@ -16,7 +16,4 @@ def grade(their_grade)
 roster[grade]
 end 
 
-def sort
-sort.roster[grade]
-end 
-end 
+
