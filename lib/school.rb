@@ -17,6 +17,6 @@ roster[grade]
 end 
 
 def sort
-sort.roster
+sort.roster[grade]
 end 
 end 
