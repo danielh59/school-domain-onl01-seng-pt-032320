@@ -18,6 +18,6 @@ end
 
 def sort
     @roster.each do |the_key, the_value|
-      the_value.sort!
+      the_value.sort
     end
 end
