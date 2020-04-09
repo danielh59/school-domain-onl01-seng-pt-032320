@@ -17,6 +17,6 @@ def grade(grade)
 end 
 
 def sort(add_student)
-  add_student.sort
+  add_student.sort!
 end 
 end
