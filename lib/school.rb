@@ -13,7 +13,7 @@ def add_student(name, grade)
 end 
 
 def grade(their_grade)
-roster[grade]
+@roster[grade]
 end 
 
 end
