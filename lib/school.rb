@@ -16,4 +16,4 @@ def grade(their_grade)
 roster[grade]
 end 
 
-
+end
